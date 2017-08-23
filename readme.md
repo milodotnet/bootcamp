@@ -23,15 +23,15 @@
 		- Merge
 
 - Continuous Integration
-	-Basic Theory of CI
-	-Introduction to Build Servers
-	-Artifact Repos
-		-Team City Artifacts
-		-Nuget
-	-Automated testing
-		-NUnit
-	-Hands on
-		-Push a compiled package into proget via team city
+	- Basic Theory of CI
+	- Introduction to Build Servers
+	- Artifact Repos
+		- Team City Artifacts
+		- Nuget
+	- Automated testing
+		- NUnit
+	- Hands on
+		- Push a compiled package into proget via team city
 
 - Continuous Delivery
 	- Basic Theory extending CI
