@@ -3,7 +3,7 @@
 
 ## In the boot camp we want to cover 
 
-- Intro to Source Control and Git Fundamentals
+- [Intro to Source Control and Git Fundamentals](SourceControl.md)
 
 	- Source control as concept and what problem it solves
 	- Distributed source control vs central
@@ -33,7 +33,7 @@
 	- Hands on
 		- Push a compiled package into proget via team city
 
-- Continuous Delivery
+- [Continuous Delivery](ContinuousDelivery.md)
 	- Basic Theory extending CI
 		- How automated testing supports fast releases
 		- How slicing changes into small increments affects this
