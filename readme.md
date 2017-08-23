@@ -48,6 +48,6 @@
 ## Resources    
 
 - Git fundamentals
-https://trunkbaseddevelopment.com/
-https://try.github.io/levels/1/challenges/1
-https://www.atlassian.com/git/tutorials/comparing-workflows
+	- https://trunkbaseddevelopment.com/
+	- https://try.github.io/levels/1/challenges/1
+	- https://www.atlassian.com/git/tutorials/comparing-workflows
