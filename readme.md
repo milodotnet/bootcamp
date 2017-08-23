@@ -22,7 +22,7 @@
 		- Branch
 		- Merge
 
-- Continuous Integration
+- [Continuous Integration](ContinuousIntegration.md)
 	- Basic Theory of CI
 	- Introduction to Build Servers
 	- Artifact Repos

@@ -1,0 +1,36 @@
+# Continuous Integration
+
+- Introduction
+- Implementing Continuous Integration
+	- What You Need Before You Start
+	- A Basic Continuous Integration System
+- Prerequisites for Continuous Integration
+	- Check In Regularly
+	- Create a Comprehensive Automated Test Suite
+	- Keep the Build and Test Process Short
+	- Managing Your Development Workspace
+- Using Continuous Integration Software
+	- Basic Operation
+	- Bells and Whistles
+- Essential Practices
+	- Don't Check In on a Broken Build
+	- Always Run All Commit Tests Locally before Committing, or Get Your CI Server to Do It for You
+	- Wait for Commit Tests to Pass before Moving On
+	- Never Go Home on a Broken Build
+	- Always Be Prepared to Revert to the Previous Revision
+	- Time-Box Fixing before Reverting
+	- Don't Comment Out Failing Tests
+	- Take Responsibility for All Breakages That Result from Your Changes
+	- Test-Driven Development
+- Suggested Practices
+	- Extreme Programming (XP) Development Practices
+	- Failing a Build for Architectural Breaches
+	- Failing the Build for Slow Tests
+	- Failing the Build for Warnings and Code Style Breaches
+- Distributed Teams
+	- The Impact on Process
+	- Centralized Continuous Integration
+	- Technical Issues
+	- Alternative Approaches
+- Distributed Version Control Systems
+- Summary
